@@ -1,0 +1,12 @@
+\title{\today weekly-report}
+
+\author{hidaruma}
+
+\date{\today}
+
+\lstset{%
+frame=single,%
+numbers=left,%
+breaklines=true,%
+basicstyle=\small\ttfamily%
+}
